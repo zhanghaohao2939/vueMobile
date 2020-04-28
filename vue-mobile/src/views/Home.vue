@@ -5,6 +5,9 @@
     <div class="test">
       张浩浩测试!!!
     </div>
+    <div class="test">
+      测试gitHub!!!
+    </div>
   </div>
 </template>
 
